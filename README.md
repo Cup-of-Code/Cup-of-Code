@@ -23,5 +23,5 @@ Just a short showcase of some handwired Mechanical keyboards and cyberdeck-like 
 
 ### Smartwatch Project
 **Description:** A DIY smartwatch featuring real-time notifications, health tracking, and custom software. Running on a Circuit Playground express!
-**[View Repository](https://github.com/cup-of-code/smartwatch)**
+**[View Repository](https://github.com/Cup-of-Code/IoT-Smartwatch)**
 
