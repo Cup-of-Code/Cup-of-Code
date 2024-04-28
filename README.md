@@ -1,48 +1,27 @@
-<!--
-**Cup-of-Code/Cup-of-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+# Hi there, I'm Charlotta! 👋<p align="center">
 
-Here are some ideas to get you started:
+ ## My Projects!
+<p align="center">
+  <!-- First row of images -->
+  <img src="https://github.com/Cup-of-Code/Cup-of-Code/assets/102232378/b1618d28-f8a2-4467-a15c-6a804cf0a36d" width="30%" />
+  <img src="https://github.com/Cup-of-Code/Cup-of-Code/assets/102232378/7307a130-86ad-4f4b-b107-81f11f028c37" width="30%" />
+  <img src="https://github.com/Cup-of-Code/Cup-of-Code/assets/102232378/2b843d1e-82d7-4087-a493-f42b39986a4d" width="30%" />
+</p>
+<p align="center">
+  <!-- Second row of images -->
+  <img src="https://github.com/Cup-of-Code/Cup-of-Code/assets/102232378/2ba48323-1078-49b3-b71e-be84eb48d413" width="30%" />
+  <img src="https://github.com/Cup-of-Code/Cup-of-Code/assets/102232378/294ed024-898e-44ed-8045-0a3d84c209fb" width="30%" />
+</p>
 
-# Hi there, I'm [Your Name] 👋
 
-## About Me
-- 🔭 I’m currently working on [mention any current projects or interests]
-- 🌱 I’m currently learning [mention any technologies or tools you're learning]
-- 👯 I’m looking to collaborate on [type of projects you're interested in]
-- 🤔 I’m looking for help with [any particular challenges you're facing]
-- 💬 Ask me about [topics or technologies you're comfortable discussing]
-- 📫 How to reach me: [your email or social media links]
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [interesting fact about you or your interests]
+Just a short showcase of some handwired Mechanical keyboards and cyberdeck-like projects I have made the past year! You can find more info in their respective repo's 😁 :
 
-## My Projects
 
-### Project 1: [Project Title]
-![Project Image](link-to-image.jpg)
-**Description:** Brief description of the project, its purpose, and what technologies were used.
-**[View Repository](link-to-github-repo)**
+### Cyberdeck Project
+**Description:** An artisan-crafted computer!
+**[View Repository](https://github.com/cup-of-code/cyberdeck)**
 
-### Project 2: [Project Title]
-![Project Image](link-to-image.jpg)
-**Description:** Brief description of the project, its purpose, and what technologies were used.
-**[View Repository](link-to-github-repo)**
-
-### Visual Showcase (No Code Available)
-Here are some projects where I've worked more on the hardware side or haven't published the code.
-
-#### Project 3: [Project Title]
-![Project Image](link-to-image.jpg)
-**Description:** A short description or what makes this project special.
-
-#### Project 4: [Project Title]
-![Project Image](link-to-image.jpg)
-**Description:** A short description or what makes this project special.
-
-## Skills
-- **Programming Languages:** Python, Java, C++
-- **Tools & Technologies:** Raspberry Pi, Arduino, IoT devices
-- **Frameworks & Libraries:** [list any relevant frameworks or libraries]
-
-Feel free to reach out if you have questions or if you want to collaborate on a project!
-
+### Smartwatch Project
+**Description:** A DIY smartwatch featuring real-time notifications, health tracking, and custom software. Running on a Circuit Playground express!
+**[View Repository](https://github.com/cup-of-code/smartwatch)**
 
