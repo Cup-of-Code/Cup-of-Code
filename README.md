@@ -4,9 +4,19 @@
 
 
  ## My Projects!
+ 
+ ![Cup-of-Code](https://github.com/user-attachments/assets/9253e0b5-7fc6-4829-a842-7bd8beff15c1)
 
 
-<img src="https://github.com/user-attachments/assets/badd2257-a91c-4e3c-b836-79270f2128a9" alt="Projects" width="500">
+ 
+
+ **Device Descriptions:**  
+- **Cyberdeck:** A portable Raspberry Pi-based device with dual screens and a mechanical keyboard.  
+- **Smartwatch:** A smartwatch with timekeeping, heart rate tracking, step counting, and weather info.  
+- **Radiodeck:** A cyberpunk-style "radio" capable of communicating over LoRaWAN.  
+- **Split Keyboard:** A handwired and 3D-printed split keyboard in an Iris-style layout. 
+
+
 
 Just a short showcase of some handwired Mechanical keyboards and cyberdeck-like projects I have made the past year! You can find more info in their respective repo's 😁 :
 
